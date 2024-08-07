@@ -3,7 +3,7 @@
 
 
 <!-- PROJECT LOGO -->
-
+# Incident Report Enhancement System
 
 
 <!-- TABLE OF CONTENTS -->
